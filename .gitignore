@@ -1,0 +1,31 @@
+# Gradle files
+.gradle/
+build/
+*.apk
+*.aar
+
+# Android Studio
+.idea/
+*.iml
+*.iws
+*.ipr
+.DS_Store
+
+# Local properties
+local.properties
+
+# Log files
+*.log
+
+# Misc
+*.swp
+*.swo
+*~
+.classpath
+.project
+.settings/
+.vscode/
+
+# Output files
+*.o
+*.so
